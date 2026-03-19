@@ -1,0 +1,4 @@
+[submodule "deltaSnippets"]
+	path = deltaSnippets
+	url = https://github.com/DeltaPrjkts/local_manifests.git
+	branch = lineage-23.2

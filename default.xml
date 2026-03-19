@@ -1032,4 +1032,5 @@
 
   <include name="snippets/lunaris.xml" />
   <include name="snippets/lineage.xml" />
+  <include name="deltaSnippets/deltaAddons.xml" />
 </manifest>
